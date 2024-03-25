@@ -11,3 +11,5 @@ Utilizo la libreria [RF-Nano Master](https://github.com/JeremySCook/RF-Nano)
   ![](instalaZIPenIDEarduino.jpg)
   
 * PASO 3: el rf-Arduino utiliza el driver CH340 si no lo tiene instalado **INSTALELO**
+  
+* PASO 4: Programe su arduino tando el emisor como el Receptor
