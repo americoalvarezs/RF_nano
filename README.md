@@ -6,6 +6,8 @@ Utilizo la libreria [RF-Nano Master](https://github.com/JeremySCook/RF-Nano)
 
 * PASO 1: descarga la libreria en ZIP
   ![](descargaZIP.jpg)
+  
 * PASO 2: añade a libreria en el IDE de Arduino
-  ![](descargaZIP.jpg)
+  ![](instalaZIPenIDEarduino.jpg)
+  
 * PASO 3: el rf-Arduino utiliza el driver CH340 si no lo tiene instalado **INSTALELO**
