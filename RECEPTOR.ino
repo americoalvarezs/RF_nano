@@ -1,4 +1,3 @@
-//Receiver program
 #include <SPI.h>
 #include "Mirf.h"
 #include "nRF24L01.h"
